@@ -156,3 +156,10 @@ Usa filtros para revisar productos por categoría
 Verifica existencia antes de hacer pedidos
 
 Haz copias de seguridad regularmente
+
+
+Referencias usadas.
+    -https://fredygeek.com/2020/09/06/el-crud-mas-facil-con-php-y-mysql-con-xampp/?
+    -https://www.neoguias.com/tutorial-crud-php/?
+    -https://phpnewspot.blogspot.com/2016/06/crud-create-read-update-delete.html
+    -https://www.codexworld.com/php-crud-operations-with-search-and-pagination/
